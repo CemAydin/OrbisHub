@@ -1,0 +1,13 @@
+{
+  "name": "orbis-hub",
+  "version": "0.1.0",
+  "description": "OrbisHub - Agentic AI platformu",
+  "scripts": {
+    "start": "echo \"Başlatma scripti eklenecek\" && exit 1",
+    "dev": "echo \"Geliştirme scripti eklenecek\" && exit 1",
+    "test": "echo \"Test scripti eklenecek\" && exit 1"
+  },
+  "author": "OrbisLabs.ai",
+  "license": "MIT",
+  "private": true
+}
